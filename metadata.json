@@ -1,0 +1,6 @@
+{
+  "name": "SoftIA - Landing Pages & Automatización Web",
+  "description": "Plataforma web moderna de SoftIA para digitalizar tu negocio con landing pages profesionales, automatización con IA e integración de WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
